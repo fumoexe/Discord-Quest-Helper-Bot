@@ -23,6 +23,9 @@
   - 🖱️ Draggable timer boxes for each active spoofed quest
   - 🧠 Auto-removal of each timer once spoofing is complete
   - 🧼 Clean UI layout with quest name + seconds remaining
+  - 🎛️ Task selection menu using confirm prompts
+  - ✅ Auto-skip completed or expired quests
+  - 📦 Modular task type handling with dynamic spoof logic
 
   - ⚙️ **Minimal & clean**: doesn’t rewrite anything unnecessary
   - 🖥️ Works inside **Discord Desktop App** or **Web (for video quests)**

@@ -19,8 +19,13 @@
   - `PLAY_ON_DESKTOP`
   - `STREAM_ON_DESKTOP`
   - `PLAY_ACTIVITY`
-- ⚙️ **Minimal & clean**: doesn’t rewrite anything unnecessary
-- 🖥️ Works inside **Discord Desktop App** or **Web (for video quests)**
+  - ⏳ Individual per-quest live countdown timers
+  - 🖱️ Draggable timer boxes for each active spoofed quest
+  - 🧠 Auto-removal of each timer once spoofing is complete
+  - 🧼 Clean UI layout with quest name + seconds remaining
+
+  - ⚙️ **Minimal & clean**: doesn’t rewrite anything unnecessary
+  - 🖥️ Works inside **Discord Desktop App** or **Web (for video quests)**
 
 ---
 

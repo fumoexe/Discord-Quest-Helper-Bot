@@ -20,7 +20,7 @@
             box.id = "mowa-overlay";
             box.innerHTML = `
                 <div style="display:flex;align-items:center;gap:14px;">
-                    <div style="width:56px;height:56px;border-radius:12px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.15);backdrop-filter:blur(6px);box-shadow:0 6px 20px rgba(0,0,0,0.25);font-size:28px;">✨</div>
+                    <div style="width:56px;height:56px;border-radius:12px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.15);backdrop-filter:blur(6px);box-shadow:0 6px 20px rgba(0,0,0,0.25);font-size:28px;">😁</div>
                     <div style="text-align:left;line-height:1.05;">
                         <div style="font-weight:800;font-size:18px;">Script by Mowa</div>
                         <div style="opacity:0.9;font-size:13px;margin-top:4px;">Now spoofing quests — running in background</div>
